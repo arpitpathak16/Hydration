@@ -66,12 +66,8 @@ The Hydration Reminder App is an Android application designed to help users main
 
 
 ## Contributing
-
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 ## Demo
 https://github.com/arpitpathak16/Hydration/assets/110929773/13fea78a-8e18-4b6b-8156-259b55fdc64d
 
