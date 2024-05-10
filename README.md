@@ -50,9 +50,11 @@ The Hydration Reminder App is an Android application designed to help users main
 29. "Stay hydrated and conquer the day."
 30. "Your body is a temple; hydrate accordingly."
 
-![Screenshot 1](screenshots/homescreen.jpg)
+![Screenshot 1](updated_UI.jpg)
 ![Screenshot 2](screenshots/notification.jpg)
-![Screenshot 3](screenshots/weekly.jpg)
+![Screenshot 3](screenshots/weekly_updated.jpg)
+![Screenshot 3](screenshots/monthly.jpg)
+![Screenshot 3](screenshots/congratulations.jpg)
 
 
 - *Hydration Tracker*: Users can log the amount of water they drink throughout the day, with visual feedback such as graphs or progress bars showing their daily, weekly, or monthly water intake compared to their goals.
