@@ -53,6 +53,7 @@ The Hydration Reminder App is an Android application designed to help users main
 ![Screenshot 1](screenshots/updated_UI.jpg)
 ![Screenshot 2](screenshots/notification.jpg)
 ![Screenshot 3](screenshots/weekly_updated.jpg)
+![Screenshot 3](screenshots/weekly.jpg)
 ![Screenshot 3](screenshots/monthly.jpg)
 ![Screenshot 3](screenshots/congratulations.jpg)
 
